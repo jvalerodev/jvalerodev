@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there, I'm Jesús! 👋🏽
 
-<!--
-**valerojesus/valerojesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑🏽‍🦱 About me
+* 🙌🏽 I like to learn new things and develop using modern technologies.
+* 🧑🏽‍💻 I'm currently learning more about ReactJS, Next.js and Node.js.
+* 💬 Ask me about JavaScript and ReactJS.
+* ⚡ Fun fact: If you get it, it's fun.
 
-Here are some ideas to get you started:
+### 📫 How to reach me...
+<a href="https://www.linkedin.com/in/jesusvalerog/" rel="nofollow">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="3.5%" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:valerojesusg@gmail.com" rel="nofollow">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="3.5%" />
+</a>
+
+### 📝 Tech Stack
+* 💻 C | C++ | Python | Java.
+* 🌐 HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | ReactJS | Next.js | Node.js | Java.
+* 📂 PostgreSQL | MySQL | MongoDB.
