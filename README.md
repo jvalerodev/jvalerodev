@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="3.5%" />
 </a>
 
-<a href="mailto:valerojesusg@gmail.com" rel="nofollow">
+<a href="mailto:jvalerodev@gmail.com" rel="nofollow">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="3.5%" />
 </a>
 
