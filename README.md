@@ -17,5 +17,5 @@
 
 ### 📝 Tech Stack
 * 💻 C | C++ | Python | Java.
-* 🌐 HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | ReactJS | Next.js | Node.js | Java.
+* 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | Tailwind CSS | ReactJS | Next.js | Node.js | Java.
 * 📂 PostgreSQL | MySQL | MongoDB.
